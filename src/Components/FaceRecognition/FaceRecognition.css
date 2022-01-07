@@ -1,0 +1,12 @@
+#test_img{
+  border-radius: 10%;
+  width: 500px;
+  height: auto;
+}
+.bounding-box{
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
